@@ -23,29 +23,7 @@
 
 <br/>  
 
-
-### Welcome! I'm Pat👋  
-<div align="center">
-<img src="https://github.com/git-TAP/EPP-Lessons/blob/main/web%20developer.gif?raw=true" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Hi, I'm Patricia 👋, a Graphic Designer and Junior Software Engineer 👨‍💻 working remotely since 2022 🚀</div>  
-  
-
-- 🔭 I’m currently working on [1Export](https://1export.com/)  
-  
-
-- 🌱 I’m currently learning Laravel and Vue  
-  
-
-- ❓ Ask me about anything related to LAMP stack and related technologies😆  
-  
-
-- ⚡ Fun fact: I can sing and play guitar. Sometimes, I don't sleep.😅  
-  
-
-<br/>  
+ 
 
 
 ## My Skill Set  
