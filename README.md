@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">Hello! I'm Patricia 👋, a Graphic Designer and Junior Software Engineer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">Hello! I'm Patricia 👋, a Graphic Designer and Junior Software Engineer 👩‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [1Export](https://1export.com/)  
