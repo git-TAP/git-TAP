@@ -18,7 +18,7 @@
 - ❓ Ask me about anything related to LAMP stack and related technologies😆  
   
 
-- ⚡ Fun fact: I can sing and play guitar. A nocturnal person.😅  
+- ⚡ Fun fact: secret
   
 
 <br/>  
