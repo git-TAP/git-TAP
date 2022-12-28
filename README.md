@@ -1,12 +1,12 @@
 
 
 ### Anyeong!😊 Thank you for visiting!👋  
-<div align="center">
+<!-- <div align="center">
 <img src="https://github.com/git-TAP/EPP-Lessons/blob/main/web%20developer.gif?raw=true" align="center" style="width: 100%" />
 </div>  
-  
+   -->
 
-### <div align="center">Hello! I'm Patricia 👋, a Graphic Designer and Junior Software Engineer 👩‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">Hello! I'm Patricia 👋, a Designer and Junior Software Engineer 👩‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [1Export](https://1export.com/)  
@@ -18,7 +18,7 @@
 - ❓ Ask me about anything related to LAMP stack and related technologies😆  
   
 
-- ⚡ Fun fact: secret
+- ⚡ Fun fact: I love to design and learn new things
   
 
 <br/>  
