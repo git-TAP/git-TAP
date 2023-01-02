@@ -95,8 +95,8 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31hokkf5r3csmcut27bpebnx5rki&cover_image=true&theme=default" /></div>  
-
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31hokkf5r3csmcut27bpebnx5rki&cover_image=true&theme=default" /></div>  
+ -->
 <br/>  
 
 <div align="center">
